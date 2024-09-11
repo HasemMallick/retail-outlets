@@ -2,7 +2,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - KOLKATA",
+        "name": "Store - KOLKATA",
         "address": "1, Beliaghata Rd, Kolkata, West Bengal 700012, India",
         "phone": "00000 11111"
       },
@@ -17,7 +17,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - MUMBAI",
+        "name": "Store - MUMBAI",
         "address": "R Mall, Mumbai, Maharashtra 400080, India",
         "phone": "11111 00000"
       },
@@ -32,7 +32,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - CHENNAI",
+        "name": "Store - CHENNAI",
         "address": "Express Avenue, Chennai, Tamil Nadu 600014, India",
         "phone": "00000 11111"
       },
@@ -47,7 +47,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - DELHI",
+        "name": "Store - DELHI",
         "address": "Nelson Mandela Road, New Delhi, Delhi 110070, India",
         "phone": "00000 11111"
       },
@@ -62,7 +62,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - BENGALURU",
+        "name": "Store - BENGALURU",
         "address": "Royal Meenakshi Mall, Bangalore, Karnataka 560076, India",
         "phone": "11111 00000"
       },
@@ -77,7 +77,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - LUCKNOW",
+        "name": "Store - LUCKNOW",
         "address": " Shalimar Eldee plaza, Lucknow, Uttar Pradesh 226016, India",
         "phone": "00000 11111"
       },
@@ -92,7 +92,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - UDAIPUR",
+        "name": "Store - UDAIPUR",
         "address": " Sukhadia Circle, Udaipur, Rajasthan 313001, India",
         "phone": "00000 11111"
       },
@@ -107,7 +107,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - INDOOR",
+        "name": "Store - INDOOR",
         "address": "Treasure Island Mall, Indore, Madhya Pradesh 452001, India",
         "phone": "00000 11111"
       },
@@ -122,7 +122,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - RAIPUR",
+        "name": "Store - RAIPUR",
         "address": "Treasure Island Mall, Indore, Madhya Pradesh 452001, India",
         "phone": "00000 11111"
       },
@@ -137,7 +137,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR HYDRABAD",
+        "name": "Store HYDRABAD",
         "address": "Treasure Island Mall, Indore, Madhya Pradesh 452001, India",
         "phone": "11111 00000"
       },
@@ -152,7 +152,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - CHANDIGARH",
+        "name": "Store - CHANDIGARH",
         "address": " Elante Mall, Chandigarh, Chandigarh 160002, India",
         "phone": "00000 11111"
       },
@@ -167,7 +167,7 @@ const storeList = [
     {
       "type": "Feature",
       "properties": {
-        "name": "BIG BAZAAR - KERLA",
+        "name": "Store - KERLA",
         "address": "East Fort, Thiruvananthapuram, Kerala 695001, India",
         "phone": "00000 11111"
       },
